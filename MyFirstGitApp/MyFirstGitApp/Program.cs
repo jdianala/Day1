@@ -10,6 +10,15 @@ namespace MyFirstGitApp
     {
         static void Main(string[] args)
         {
+            
+
+            for (var i = 0; i < 10; i++)
+            {
+                var x = i;
+                Console.WriteLine("x");
+            }
+
+            Console.ReadLine();
         }
     }
 }
