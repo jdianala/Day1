@@ -3,22 +3,27 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace MyFirstGitApp
 {
     class Program
     {
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
-            
-
-            for (var i = 0; i < 10; i++)
+            if( File.Exists(@"C:\HellowWorld.txt"))// @ symbol turns off escape tags like /t
             {
-                var x = i;
-                Console.WriteLine("x");
+                Console.WriteLine(@"It Exists!");               
+            }
+            else
+            {
+                Console.WriteLine(@"It Does Not Exists!");
+               
             }
 
             Console.ReadLine();
+
         }
+        */
     }
 }

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySecondGit", "MySecondGit\MySecondGit.csproj", "{9C18596F-FB24-4F61-A3E1-ADA305DA615D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{294BF2DE-AAD0-4E7F-86E3-6E3672D323F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{41D77193-59AB-4AA1-ACD8-5E5886492148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNewsWithArray", "RandomNewsWithArray\RandomNewsWithArray.csproj", "{A29F5644-FC79-456B-899B-FA2EFCBADB00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMovieQuotes", "PlayMovieQuotes\PlayMovieQuotes.csproj", "{51FE04CE-2FE4-42B3-9042-2C316FA666F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contrarian", "Contrarian\Contrarian.csproj", "{8FEB3AAB-4B4E-4DBC-9ADA-8AF20BC7C1B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contrarian2", "Contrarian2\Contrarian2.csproj", "{E22099E0-B67D-4578-B3EC-2B822676839B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C18596F-FB24-4F61-A3E1-ADA305DA615D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C18596F-FB24-4F61-A3E1-ADA305DA615D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C18596F-FB24-4F61-A3E1-ADA305DA615D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C18596F-FB24-4F61-A3E1-ADA305DA615D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294BF2DE-AAD0-4E7F-86E3-6E3672D323F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294BF2DE-AAD0-4E7F-86E3-6E3672D323F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294BF2DE-AAD0-4E7F-86E3-6E3672D323F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294BF2DE-AAD0-4E7F-86E3-6E3672D323F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D77193-59AB-4AA1-ACD8-5E5886492148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D77193-59AB-4AA1-ACD8-5E5886492148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D77193-59AB-4AA1-ACD8-5E5886492148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D77193-59AB-4AA1-ACD8-5E5886492148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29F5644-FC79-456B-899B-FA2EFCBADB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29F5644-FC79-456B-899B-FA2EFCBADB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29F5644-FC79-456B-899B-FA2EFCBADB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29F5644-FC79-456B-899B-FA2EFCBADB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FE04CE-2FE4-42B3-9042-2C316FA666F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FE04CE-2FE4-42B3-9042-2C316FA666F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FE04CE-2FE4-42B3-9042-2C316FA666F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FE04CE-2FE4-42B3-9042-2C316FA666F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEB3AAB-4B4E-4DBC-9ADA-8AF20BC7C1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEB3AAB-4B4E-4DBC-9ADA-8AF20BC7C1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEB3AAB-4B4E-4DBC-9ADA-8AF20BC7C1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEB3AAB-4B4E-4DBC-9ADA-8AF20BC7C1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E22099E0-B67D-4578-B3EC-2B822676839B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22099E0-B67D-4578-B3EC-2B822676839B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22099E0-B67D-4578-B3EC-2B822676839B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22099E0-B67D-4578-B3EC-2B822676839B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
