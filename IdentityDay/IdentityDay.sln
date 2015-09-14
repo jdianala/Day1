@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityDay", "IdentityDay\IdentityDay.csproj", "{52B6F585-9D16-47EF-BD43-5134C744A5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityDayTest.Test", "UnitTestProject1\IdentityDayTest.Test.csproj", "{0BD481C6-5AF5-42E0-A2FA-E71904FB9F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B6F585-9D16-47EF-BD43-5134C744A5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B6F585-9D16-47EF-BD43-5134C744A5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B6F585-9D16-47EF-BD43-5134C744A5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B6F585-9D16-47EF-BD43-5134C744A5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD481C6-5AF5-42E0-A2FA-E71904FB9F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD481C6-5AF5-42E0-A2FA-E71904FB9F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD481C6-5AF5-42E0-A2FA-E71904FB9F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD481C6-5AF5-42E0-A2FA-E71904FB9F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
